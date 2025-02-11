@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Our Official Logo
+title: Our Official Website
 subtitle: Introduction
 categories: Get To Know Us
 tags: [KEYESCOSMETICS, INTRODUCTION]
