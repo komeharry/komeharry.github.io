@@ -3,9 +3,11 @@ layout: about
 title: About
 ---
 
+## WELCOME TO KOME EYES COSMETIC
+
 ## About Us
 
-The first thing lookers notices and stares at upon first gaze.
+The Eyes is the first thing lookers notices and stares at upon first gaze.
 You can't call a face beat a full makeup without having the eyes done. If you step out without doing the eyes, your face would still look bare.
 Not to mention that the eyes takes way more time making up than every other part. 
 Our founder r## About
