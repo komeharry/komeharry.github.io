@@ -3,48 +3,42 @@ layout: about
 title: About
 ---
 
-## WELCOME TO KOME EYES COSMETICS
+## INTRODUCING KOME HARRY
 
-The Eyes is the first thing lookers notices and stares at upon first gaze.
-You can't call a face beat a full makeup without having the eyes done. If you step out without doing the eyes, your face would still look bare.
-Not to mention that the eyes takes way more time making up than every other part. 
+Kome Harry is a Goal-oriented specialist with proven experience in business management, administration, and operations. Able to coordinate
+administrative tasks, optimize operations, and assist in business activities on a daily basis in order to enhance the efficiency
+of the organization. Able to handle schedules, budgets, resources and ensure that the projects are delivered on time. Familiar
+with report writing, performance tracking, and analysis to assist in strategic planning. Has good communication, interpersonal
+and leadership skills and can function well even in a cross department setting as well as managing the expectations of the
+stakeholders
+But now, she has prompted herself with a challenge to transition to Tech, a hidden passion she has always had for years without fully knowing how to navigate through it.
+But now, thanks to Tech Expert Academy, she can almost taste the dream coming to life, thus it is with great gratitude and enthusiasm she makes this application.
 
-## About Us
 
-Kome Eyes Cosmetics is a high end Cosmetics Beauty brand that focuses on Eyes Cosmetics ranging from Eye lashes of all types (Cluster Lashes, Russian Curls Strip Lashes, Bridal Fluffy Lashes, etc).
-Lahes Adhesive Glue, Contact lenses, and Jewlries. All in the sole Aim of Enhancing Our Customers Beauty.
+## EDUCATION 
 
-## Our Founder
+Bachelor of Science in Management Science
+Rivers State University
+Port Harcourt 
+Nigeria.
 
-Kome Eyes Cosmetics is Founded by Kome Harry.
-Kome Harry believes in versatility and freedom of choice. She respects the fact that there are different personalities and made sure our products are vast enough to fit all personalities traits no matter your preferences. Over here at KEYES Coametics, we dont judge, but we take all Beauty personalities into cosideration in our varieties of products.
+## MESSAGE FROM KOME TO TECH EXPERT ACADEMY
 
-## Our Why
+I am super excited to take this bold step in my decision to transition to Tech.
+This decision is not as easy as it seems, neither did it come as just a simple option of yes or no answer, rather, because i was certain of what exactly i want,
+it required that I took a bold step in resigning from my position at the bank to enable my transition to Tech come to life.
+This is because i realized it will require such a great dedication of my time, energy and focus to actualize this, i personally believe in giving your 100% or give nothing at all, hence, since i am 100% sure of what i want, i decided to give my 100%, and my job at the bank would not have made it possible, thus i resigned.
+I have no regret.
+Tech is something I had always had a passion for.
+Immediately after graduating, I took an initiative to go into Data Analytics with the popular NINC tech institution here at my vicinity, but due to some personal challenges, this was abruptly put to a halt.
+But now, I am so glad I took the bold step to resigning from my position at the bank to actualize this goal, 
+i am even more excited that i get to do it with Tech Expert Academy cause i have heard so much of the academy's greatness, i only wish to have discovered it sooner. 
+I cant wait to acquire the necessary knowledge needed with Tech Expert Academy to make me completely equipped for the next big chapter.
 
-Our founder had always had a flare for the beauty industry, she thought to come in as a Model, but that woukd only make her a participator.
-She thought to come in as a Makeup artist, but that would only make her a user.
-She wanted more, not just a participator, not just a user, not even as just a spectator, but she wanted to be a creator.
-Thus, she thought out of the box, and building her own brand of Beauty product that all other users would love to use.
-That was how Kome Eyes Cosmetics Came about.
 
-## Our What
-
-As a former Makeup artist, Our Founder acknowledged that THE EYES is the main part of makeup. THE EYES, is basicly what makes the face pop in a face beat.
-THE EYES, is everything, thus, she fell inlove with the beauty and the artistry of the eyes and decided to focus on it, not just on the beauty aspects, but the healthcare aspects by endeavoring to have all our products clinically tested and void off all harmful chemicals.
-
-## Our Products
-
-CLUSTUER LASHES
-RUSSIAN CURLS STRIP LASHES
-BRIDAL FLUFFY LASHES
-LASHES ADHESIVE GLUE
-CONTACT LENSES
-JEWELRIES 
-ETC
-
-## CONTACT US
+## CONTACT KOME
 
 EMAIL: (KOMEHARRY@GMAIL.COM)
-INSTAGRAM: (https://www.instagram.com/kome_eyes/profilecard/?igsh=MTFnMzRucXVyamJ6Ng==)
+INSTAGRAM: (https://www.instagram.com/kome_doryn?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
 WHATSAPP (http://wa.me/2349096007834)
-CALL US: 09137128363
+CALL LINE: 09137128363
